@@ -30,12 +30,8 @@ Advantages:
 Easy-to-use syntax for data wrangling
 Highly optimized for performance
 Integrates well with NumPy, Matplotlib, and other libraries
+_______________________________________________________________________________________________________________________________________________
 
----
-
-## Author
-Brij Kumbhani – Data Science Enthusiast
-________________________________________________________________________________________________________________________________________________
 # 🌫️ Air Quality Analysis: Delhi, January 2023
 
 ## 📌 Project Overview
@@ -77,12 +73,8 @@ Through data exploration and visualization, we uncover significant insights into
 - **Pandas** for data manipulation
 - **Matplotlib** & **Seaborn** for visualization
 - **Google Colab**
-  
----
+_______________________________________________________________________________________________________________________________________________
 
-## Author
-Brij Kumbhani – Data Science Enthusiast
-________________________________________________________________________________________________________________________________________________
 # Business Insights from Transaction Data
 
 ## Overview
